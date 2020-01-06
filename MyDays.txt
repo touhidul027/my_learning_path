@@ -1,3 +1,17 @@
-January 3,2018
+January 6,2020
+	*I do not like whatever I am doing in office-booring r&d
+	*Implemented heap.java program
+		->trying recursive version, but did not gave result as expected, need to investigate more
+
+January 5,2020
+   * Study Spring article
+   * Implementing HeapSort data structure(Although I did it earlier-but I want to finish Intro
+     duction to Algorithms written by Robert Lafore)
+
+January 4,2020
+  * Reading Spring Framework article,collecting much many number of interview question in pdf,doc
+   format
+
+January 3,2020
 In office, UWA framework.
 In home, HeapSort-> Data Struvture
