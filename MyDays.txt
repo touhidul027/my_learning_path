@@ -1,3 +1,7 @@
+January 7,2020
+    * Tried recursive version of tricleUp method for heap program.Not needed now
+	* Overviewing practicum management system,need to work a little
+
 January 6,2020
 	*I do not like whatever I am doing in office-booring r&d
 	*Implemented heap.java program
