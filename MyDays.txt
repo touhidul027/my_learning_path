@@ -1,3 +1,6 @@
+January 11
+    * Tried recursive version of tricleUp,tricleDown method for heap program.
+
 January 7,2020
     * Tried recursive version of tricleUp method for heap program.Not needed now
 	* Overviewing practicum management system,need to work a little
