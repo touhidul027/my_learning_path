@@ -1,3 +1,6 @@
+Januray 13
+    *Implementing Heap Sort using max-heap.[Increasing order]
+
 January 12
     *Implementing Rest Controller for Task,it is ongoing;next need to implement
      service along with inmemory db
