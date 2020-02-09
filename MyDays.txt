@@ -1,3 +1,14 @@
+February 9
+    *Implement Min heap data structure
+
+=> Preparation for interview,did not notedown of what I have been done
+
+February 1,2020
+    * Studying book of rest api
+
+January 19
+    *Implemented priotity queue using MaxHeap
+
 January 15
     *Implemented priotity queue
 	* overviewing exercising of chapter 7; coremen books
