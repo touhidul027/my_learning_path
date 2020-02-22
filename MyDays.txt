@@ -1,3 +1,13 @@
+February 23
+    * Implementing Radix sort
+
+---> anonymous stusy <---
+February 13
+	*counting numbers in an given array between numbers
+
+Februry 10
+	* implement Counting Sort
+
 February 9
     *Implement Min heap data structure
 
