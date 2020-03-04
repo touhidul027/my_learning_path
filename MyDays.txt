@@ -1,3 +1,14 @@
+*I done finished Data Struture and Algorithms in java by rebert Lafore 
+But I want to finish"Introduction to Algorithms" too (coremen).
+
+March 3,2020
+    * Dynamic programming study
+	* Implementing Rod-cutting algorithm, top-down technique
+
+February 29,2020
+    * Red black tree
+	* Spring
+
 February 23
     * Implementing Radix sort
 
