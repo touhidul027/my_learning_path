@@ -1,6 +1,10 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
 
+March 14,2020
+    * basically implement Rod-cutting algorithm bottom-up approach, longest common subse
+	-quence(bottom-up,top-down) and fibonacci series
+
 March 3,2020
     * Dynamic programming study
 	* Implementing Rod-cutting algorithm, top-down technique
