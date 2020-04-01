@@ -1,5 +1,16 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
+April 1,2020
+    * Implemented Snapsack 0|1, Fractional Snapsack, Huffman Coding
+
+March 26,2020
+    * Studying Snapsack Algorithms and implementing
+
+March 21,2020
+	* Implementing Activity Selection Program
+	
+March 19,2020
+	* Implemented longest palindrome subsequence
 
 March 14,2020
     * basically implement Rod-cutting algorithm bottom-up approach, longest common subse
