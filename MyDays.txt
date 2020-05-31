@@ -1,5 +1,9 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
+
+May 31, 2020
+    * Graham scan algorithm implementation for convex hull is ongoing
+    * Started and finish JAX_RS basic, Number theoretic algorithms, String matching algorithms, now computation geometry studying is ongoing
 April 1,2020
     * Implemented Snapsack 0|1, Fractional Snapsack, Huffman Coding
 
