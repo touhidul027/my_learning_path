@@ -1,5 +1,14 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
+
+PLAN FOR WEEK 24 {
+    1. Finding the closest pair of points
+    2. Learn about Advanced JAX-RS
+    WEEK 23 Result : {
+    
+    }
+}
+
 June 6, 2020
     * Implemented graham scan algorithm for finding convex hull
     * Study javascript book and learn modle
