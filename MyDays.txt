@@ -1,6 +1,8 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
-
+June 6, 2020
+    * Implemented graham scan algorithm for finding convex hull
+    * Study javascript book and learn modle
 May 31, 2020
     * Graham scan algorithm implementation for convex hull is ongoing
     * Started and finish JAX_RS basic, Number theoretic algorithms, String matching algorithms, now computation geometry studying is ongoing
