@@ -1,6 +1,16 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
 
+[JUNE 15- JUNE 21]
+PLAN FOR WEEK 25 {
+    1. Coding for Finding the closest pair of points
+    3. Implementing simple message module using JAX-RS
+    WEEK 24 Outcome : 75% {
+       1. Knew theory,but code implementation not complete
+       2. Done watched tutorial
+    }
+}
+
 PLAN FOR WEEK 24 {
     1. Finding the closest pair of points
     2. Learn about Advanced JAX-RS
@@ -86,7 +96,7 @@ January 6,2020
 January 5,2020
    * Study Spring article
    * Implementing HeapSort data structure(Although I did it earlier-but I want to finish Intro
-     duction to Algorithms written by Robert Lafore)
+     duction to Algorithms)
 
 January 4,2020
   * Reading Spring Framework article,collecting much many number of interview question in pdf,doc
