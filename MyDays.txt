@@ -1,6 +1,16 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
 
+[JUNE 22- JUNE 28]
+PLAN FOR WEEK 26 {
+    4. The vertex-cover problem
+    3. REPEAT-1: Implementing simple message module using JAX-RS
+    WEEK 24 Outcome : 75% {
+       1. Implemented for Coding for Finding the closest pair of points
+       3. Still in progress
+    }
+}
+
 [JUNE 15- JUNE 21]
 PLAN FOR WEEK 25 {
     1. Coding for Finding the closest pair of points
