@@ -1,6 +1,13 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
 
+[July 6- July 12]
+PLAN FOR WEEK 28 {
+    5. The traveling-salesman problem
+    6. SOAP web services
+    WEEK 27 Outcome : N/A
+}
+
 [JUNE 22- JUNE 28]
 PLAN FOR WEEK 26 {
     4. The vertex-cover problem
