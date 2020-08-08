@@ -1,6 +1,17 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
 
+[August 10- August 16]
+PLAN FOR WEEK 33 {
+    9. The set-covering problem
+    10. You don't know js: Scope and closures
+    WEEK  Outcome : {
+       5. done
+       7. Finish book- Mastering javascript 
+       8. Finish book- You don't know js: up and going
+    }
+}
+
 [July 13- July 19]
 PLAN FOR WEEK 29 {
     5. The traveling-salesman problem
