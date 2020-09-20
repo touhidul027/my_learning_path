@@ -1,5 +1,12 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
+[September 20- september 26]
+PLAN FOR WEEK 38 {
+    11. ExactSubsetSum Implentation
+    12. Hobby Project Implementation {should be finished by January 2021}
+}
+
+* gap
 
 [August 10- August 16]
 PLAN FOR WEEK 33 {
