@@ -1,5 +1,18 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
+
+[November 16- November 22]
+PLAN FOR WEEK 2020-WK46 {
+    14. Minimum Spanning Tree Implentation - Prims Algorithm
+    12. Hobby Project Implementation {should be finished by January 2021}
+    Previous Week Outcut: {
+    	11. ExactSubsetSum Implentation,
+	13. DFS, BFS Search, Minimum Spanning Tree Implementation using kruskals algorithm
+    }
+}
+
+*gap, studied but not updated here cause of time management
+
 [September 20- september 26]
 PLAN FOR WEEK 38 {
     11. ExactSubsetSum Implentation
