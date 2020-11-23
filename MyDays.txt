@@ -1,6 +1,15 @@
 *I done finished Data Struture and Algorithms in java by rebert Lafore 
 But I want to finish"Introduction to Algorithms" too (coremen).
 
+[November 23- November 29]
+PLAN FOR WEEK 2020-WK48 {
+    15. Bellman-Ford Algorithm implementation
+    12. Hobby Project Implementation {should be finished by January 2021}
+    Previous Week Outcut: {
+    	14. Minimum Spanning Tree Implentation - Prims Algorithm
+    }
+}
+
 [November 16- November 22]
 PLAN FOR WEEK 2020-WK46 {
     14. Minimum Spanning Tree Implentation - Prims Algorithm
