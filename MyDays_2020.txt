@@ -1,12 +1,23 @@
-*I done finished Data Struture and Algorithms in java by rebert Lafore 
-But I want to finish"Introduction to Algorithms" too (coremen).
+*Finished Data Struture and Algorithms in java (rebert Lafore)
+*Finished "Introduction to Algorithms"(coremen).
+
+[December 07- December 13]
+PLAN FOR WEEK 2020-WK51 {
+    12. Hobby Project Implementation {should be finished by January 2021}
+    NA-18. Johnson’s algorithm for sparse graphs
+    18. Logically yours channel puzzle reviewing and note down
+    Previous Week Outcut: {
+    	16. Implemented Dijkstra Algorithm
+	17. Implemented Floyd-Warshall algorithm
+    }
+}
 
 [November 30- December 06]
 PLAN FOR WEEK 2020-WK49 {
     12. Hobby Project Implementation {should be finished by January 2021}
     16. Dijkstra Algorithm implementation
     17. Floyd-Warshall algorithm implementation
-    18. Johnson’s algorithm for sparse graphs 
+     
     Previous Week Outcut: {
     	15. Implemented Bellman-Ford Algorithm
     }
